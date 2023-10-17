@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alise!
+## 👋 Hi, I'm Alise!
 
 Passionate about programming, I am deeply committed to growing as a software developer specializing in C# and .NET. My journey in tech has been characterized by constant learning and a deep commitment to crafting robust, scalable applications. I am continuously expanding my toolkit to address complex challenges and ensure I deliver solutions that are both efficient and high-quality.
 
