@@ -9,6 +9,9 @@ A firm believer in the power of collaboration, I know that the best solutions of
 
 ## Latest Projects
 
+### <a href="https://github.com/AliseJan/data-scraper" target="_blank">Data Scraper</a></h2>
+This application serves as an automated data collector, fetching data from public APIs and storing them into Azure Storage, specifically within both a Table and a Blob.
+
 ### <a href="https://github.com/AliseJan/employee-salary-service" target="_blank">Employee Salary Service</a></h2>
 A robust C# application adhering to SOLID principles and developed with the TDD approach. This solution allows companies to manage their employee roster, recording daily worked hours and computing monthly salaries.
 
