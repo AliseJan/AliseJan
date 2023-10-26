@@ -9,6 +9,9 @@ A firm believer in the power of collaboration, I know that the best solutions of
 
 ## Latest Projects
 
+### <a href="https://github.com/AliseJan/cv-app" target="_blank">CV APP</a></h2>
+This is a comprehensive ASP.NET Core MVC application tailored for efficient management of CV files. The application seamlessly integrates with an SQL database, allowing for robust storage and retrieval of CV data and full CRUD operations on them.
+
 ### <a href="https://github.com/AliseJan/data-scraper" target="_blank">Data Scraper</a></h2>
 This application serves as an automated data collector, fetching data from public APIs and storing them into Azure Storage, specifically within both a Table and a Blob.
 
