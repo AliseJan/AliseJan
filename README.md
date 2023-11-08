@@ -5,7 +5,7 @@ Passionate about programming, I am deeply committed to growing as a software dev
 A firm believer in the power of collaboration, I know that the best solutions often come from synergistic teamwork. As the world of software development continues to evolve, I remain excited to be a part of it and to contribute positively to the community. If you value innovation and teamwork as much as I do, let's connect and see how we can create something impactful together.
 
 ## 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,nodejs,vue,js,ts,html,css,azure,sqlite,bootstrap,git,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,nodejs,react,vue,js,ts,html,css,azure,sqlite,bootstrap,git,github&perline=5)](https://skillicons.dev)
 
 ## Latest Projects
 
